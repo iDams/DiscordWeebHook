@@ -36,8 +36,14 @@ target/
 !.vscode/launch.json
 !.vscode/extensions.json
 
+
 ### VisualStudioCode Patch ###
 # Ignore all local history of files
 **/.history
+
+.settings/*
+.classpath
+.project
+
 
 # End of https://www.gitignore.io/api/visualstudiocode
